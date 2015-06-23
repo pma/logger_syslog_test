@@ -1,0 +1,1 @@
+%{"logger_syslog_backend": {:git, "git://github.com/pma/logger_syslog_backend.git", "c36934959fe9360da96b2070f188b4c8fcc87f2f", []}}

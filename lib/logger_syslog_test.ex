@@ -1,0 +1,2 @@
+defmodule LoggerSyslogTest do
+end
